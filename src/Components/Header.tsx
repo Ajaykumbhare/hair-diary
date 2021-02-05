@@ -20,7 +20,7 @@ export const Header: FC = (): ReactElement => {
       }}>
         <img src={backArrow} alt="backArrow" width="25px" style={{ padding: "5px", marginLeft: "15px" }} />
         <Label fontWeight="bold" value="hair diary" fontSize="25px" />
-        <Label fontWeight="bold" value={month + " 2020"} isCamelBold={true} textAlign="right" margin="0 20px 0 0" fontSize="25px" />
+        <Label fontWeight="bold" value={month + " 2021"} isCamelBold={true} textAlign="right" margin="0 20px 0 0" fontSize="25px" />
       </div >
       <div css={{
         display: "grid",
