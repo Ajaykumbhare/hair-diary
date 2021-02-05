@@ -1,8 +1,9 @@
 {
-  "name": "my-app",
+  "name": "hair-diary",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@emotion/react": "^11.1.4",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
@@ -22,6 +23,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage":".",
   "eslintConfig": {
     "extends": [
       "react-app",
